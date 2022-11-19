@@ -13,13 +13,18 @@ This project will be considered a success if :
   3.Possible challenges likely to be encountered,e.g competitors are outlined
 # 2.DATA UNDERSTANDING
 ## 2.1.Importing relevant libraries
-here all the relevant usefull libraries are imported for easier computations
+Here all the relevant usefull libraries are imported for easier computations
 
 ## 2.2.Reading the datasets
-Here we look at the datasets and decide on the most relevant to our analysis data sets imported include : 1. Movies data set 2. Budget dataset 3. The movie basics dataset
+Here we look at the datasets and decide on the most relevant to our analysis data sets imported include :
+                    1. Movies data set  
+                    2. Budget dataset 
+                    3. The movie basics dataset
 
 ## 2.3 Exploring the datasets
-We are describing these 3 data frames to understand on which sets we can combine to work on in order of : a. 2.3.1 b. 2.3.2
+We are describing these 3 data frames to understand on which sets we can combine to work on in order of : 
+                    a. 2.3.1 
+                    b. 2.3.2
 
 #### 2.3.2.1 Tidying
 we are tidying the budget data set as we notice null values and odd data types that could affect our analysis after realizing that it has alot of ubnormalities
@@ -31,7 +36,11 @@ After having the relevant information about the Data sets,i have decided to use 
 We merge the two dataset that have been decided on
 
 ## 3.2 Data cleaning
-On data cleaning we check on the following: 1. Uniformity 2. Completeness 3. Consistency 4. Validity
+On data cleaning we check on the following: 
+                      1. Uniformity 
+                      2. Completeness 
+                      3. Consistency 
+                      4. Validity
 
 # 4. DATA ANALYSIS
 Here we make usefullness of ur cleaned data set through visual insights and other descriptive statistics.
