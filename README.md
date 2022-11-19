@@ -22,7 +22,7 @@ Here we look at the datasets and decide on the most relevant to our analysis dat
                     3. The movie basics dataset
 
 ## 2.3 Exploring the datasets
-We are describing these 3 data frames to understand on which sets we can combine to work on in order of : 
+We are describing these 3 data frames to understand on which sets we can combine to work on in order of  
                     a. 2.3.1 
                     b. 2.3.2
 
