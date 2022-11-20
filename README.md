@@ -35,6 +35,10 @@ After having the relevant information about the Data sets,i have decided to use 
 ## 3.1 Selecting and Merging
 We merge the two dataset that have been decided on
 
+The merge() function is used and the resultant dataset is larger and more relevant
+
+data_set = Movies.merge(Budget ,how = 'inner',on = 'title')
+
 ## 3.2 Data cleaning
 On data cleaning we check on the following: 
                       1. Uniformity 
@@ -46,6 +50,11 @@ On data cleaning we check on the following:
 Here we make usefullness of ur cleaned data set through visual insights and other descriptive statistics.
 
 I also did several plottings for easier interpretations,as viewed in the main notebook indicating relationships between various factors
+Bar graph indicating popularity of the studios
+![image](https://user-images.githubusercontent.com/87186427/202922790-d452a1eb-c1e8-4dcd-a705-d98d9cb0e202.png)
+
+scatter plot showing the relationship between the income and progression over the years
+![image](https://user-images.githubusercontent.com/87186427/202922929-f277a8cc-d123-4087-83fa-d350af62b028.png)
 
 # 5. CONCLUSIONS
 1.English movies have the highest ratings and popularity based on our datasets and visualizations
