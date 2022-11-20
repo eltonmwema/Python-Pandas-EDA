@@ -50,7 +50,9 @@ On data cleaning we check on the following:
 Here we make usefullness of ur cleaned data set through visual insights and other descriptive statistics.
 
 I also did several plottings for easier interpretations,as viewed in the main notebook indicating relationships between various factors
+
 Bar graph indicating popularity of the studios
+This bargraph however keeps changing with execution as the sample data is randomized but the output drives equivalent conclussions on the B.V studios
 ![image](https://user-images.githubusercontent.com/87186427/202922790-d452a1eb-c1e8-4dcd-a705-d98d9cb0e202.png)
 
 scatter plot showing the relationship between the income and progression over the years
